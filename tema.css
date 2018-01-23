@@ -1,16 +1,28 @@
 table{
   font-family: 'Handlee', cursive;
   color: #c5c788;
-  font-size: 200%;
-  width: 250%
+  font-size: 150%;
+  width: 100%;
+  text-align: justify;
+  border-style: inset;
+  padding-left: 1cm;
 }
 
 h1{
   color: #c5c788;
   font-family: 'Handlee', cursive;
-  font-size: 150%;
+  font-size: 250%;
 }
 
 body{
   background-color: #1a5870;
+}
+
+#eu{
+  text-align: center;
+  width: 450px;
+  margin:0 auto;
+}
+
+#tabela{
 }
